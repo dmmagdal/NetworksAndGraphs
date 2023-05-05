@@ -1,0 +1,6 @@
+[submodule "PageRank"]
+	path = PageRank
+	url = https://github.com/dmmagdal/PageRank
+[submodule "SocialNetworks"]
+	path = SocialNetworks
+	url = https://github.com/dmmagdal/SocialNetworks
